@@ -51,7 +51,8 @@ body{
 }
 
 .images{
-    width: 10%
+    max-width: 50px;
+    max-height: 50px
     text-align: center
     
 }
