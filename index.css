@@ -30,7 +30,7 @@
 
 .div-c {
      margin: 0 auto;
-     width: 1500px;
+     width: 1200px; 
      color: white
 }
 /*Background image*/
@@ -39,6 +39,11 @@ body{
   background-color: #ddd;
 }
 .important{
-    text-align: center
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy
     
+}
+#color{
+    color: white
 }
