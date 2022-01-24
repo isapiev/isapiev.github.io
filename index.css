@@ -68,5 +68,6 @@ ul{
 
 .tableau{
     border: 1px black solid;
-    border-collapse: collapse
+    border-collapse: collapse;
+    color: white 
 }
