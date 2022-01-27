@@ -8,9 +8,9 @@ img {
   max-width: 100%;
 }
 .slider-container {
-  max-width: 800px;
+  max-width: 500px;
   position: relative;
-  margin: 350px;
+  margin: auto;
   height: 350px;
   overflow: hidden;
 }
