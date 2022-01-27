@@ -34,7 +34,7 @@
      color: white
 }
 /*Background image*/
-body{
+html, body{
   background-image: url("images/galaxy.jpg");
   background-color: #ddd;
   background-size: 100% 100%;
